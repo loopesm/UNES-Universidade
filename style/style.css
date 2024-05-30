@@ -1,0 +1,19 @@
+
+.myTop{
+    background-color: #6d78a8;
+    height: 5px;
+}
+
+.myContent{
+    margin: 0 auto;
+    max-width: 920px;
+}
+
+.myImg{
+    margin: 0 auto;
+    max-width: 920px;
+}
+
+.myH1{
+    color: #383F5D;
+}
